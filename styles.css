@@ -10,9 +10,9 @@ body{
     align-items: center;
 }
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:600px){
     h2{
-        font-size: medium;
+        font-size: small;
     }
 }
 
